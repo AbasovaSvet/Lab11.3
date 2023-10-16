@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Bird {
-}
+public class Bird extends Animals {
+    String colour;
+    }
+

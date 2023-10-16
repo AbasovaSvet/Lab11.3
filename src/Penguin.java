@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Penguin {
+public class Penguin extends Bird{
+    String name;
 }
